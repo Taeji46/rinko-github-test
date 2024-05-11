@@ -6,4 +6,4 @@ def print_circle():
         time.sleep(1.0)
 
 if __name__ == "__main__":
-    print_square()
+    print_circle()
